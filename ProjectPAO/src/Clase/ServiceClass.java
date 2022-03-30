@@ -58,18 +58,6 @@ public class ServiceClass {
 
     public void Run() {
         AdaugaDate();
-        //5AfisareRestaurant()
-        //3AfisareMeniu() la un restaurant
-        //2AdaugaBautura() la un restaurant
-        //1AdaugaMancare() la un restaurant
-        //9 cauta produs in meniu
-
-        //4AdaugaClient() la un restaurant
-        //8AfisareClient
-
-        //6afisare soferi
-        //7MaresteSalariu() sofer
-        //10 afisare masini
         while(true){
         System.out.println("Alegeti optiunea dorita:");
         System.out.println("1 pentru a vedea toate restaurantele;");
